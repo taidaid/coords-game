@@ -14,7 +14,6 @@ Match the target coordinates with as few clicks as possible.
 
 - Target coordinates
   - A small panel displays the current target `Longitude` and `Latitude`.
-  - Click "Generate Coords" to get a new random target anywhere on Earth.
 
 - Interacting with the map
   - Click on the map to place a marker at your click location.
@@ -79,4 +78,3 @@ npm run lint
 
 - Zoom into the region before clicking for better precision.
 - Use the on-screen target coordinates as guidance and match both longitude and latitude.
-- Click "Generate Coords" any time you want a new challenge.

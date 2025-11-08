@@ -11,4 +11,9 @@ import CoordsGame from './views/CoordsGame.vue'
   width: 100vw;
   height: 100vh;
 }
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
 </style>
